@@ -18,5 +18,5 @@
             "Davibennun\\LaravelPushNotification": "src/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dist"
 }
